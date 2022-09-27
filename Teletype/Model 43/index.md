@@ -1,3 +1,10 @@
+---
+category:
+    - Paper terminal
+keywords:
+    - Teletype
+    - Model 43
+---
 # Teletype Model 43
 
 ## Model 43 Teleprinter KSR (Keyboard Send Receive)
