@@ -31,11 +31,20 @@
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
 
+        {% if site.categories %}
+        <h3>Categories</h3>
+        <ul>
+        {% for cat in site.categories %}
+            <li>{{ cat }}</li>
+        {% endfor %}
+        </ul>
+        {% endif %}
+
         {% if site.tags %}
         <h3>Keywords</h3>
         <ul>
         {% for tag in site.tags %}
-            <li>{{ tag[0] }}</li>
+            <li>{{ tag }}</li>
         {% endfor %}
         </ul>
         {% endif %}
