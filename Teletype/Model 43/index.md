@@ -1,7 +1,6 @@
 ---
-category:
+tags:
     - Paper terminal
-keywords:
     - Teletype
     - Model 43
 ---

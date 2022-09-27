@@ -3,3 +3,4 @@ theme: jekyll-theme-minimal
 title: Computermuseum Arnhem
 description: Here you can find information about the collection of the Computermuseum Arnhem at <a href="https://hack42.nl/">Hack42</a>.
 
+layout: keywords
