@@ -1,4 +1,8 @@
 ---
+manufacturer: Teletype
+model: Model 43
+name: Teletype Model 43
+
 categories:
     - Paper terminal
 tags:

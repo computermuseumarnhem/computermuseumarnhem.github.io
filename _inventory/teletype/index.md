@@ -1,4 +1,6 @@
 ---
+name: Teletype
+
 categories:
     - Manufacturer
 tags:
