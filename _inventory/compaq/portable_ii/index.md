@@ -1,15 +1,19 @@
 ---
+layout: inventory
 manufacturer: Compaq
 model: Portable II
-name: Compaq Portable II
+title: Compaq Portable II
+description: Portable Computer
 
 categories:
-    - Luggable PC
+    - Portable Computer
 tags:
     - Compaq
     - Portable II
     - Luggable
-
+    - "8088"
+    - CRT
+    - x86
 ---
 # Compaq Portable II
 

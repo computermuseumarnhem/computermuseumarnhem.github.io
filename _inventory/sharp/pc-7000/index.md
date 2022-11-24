@@ -1,4 +1,5 @@
 ---
+layout: inventory
 manufacturer: Sharp
 model: PC-7000
 title: Sharp PC-7000
@@ -22,4 +23,4 @@ assets:
     fieldGroup: asset
 ---
 
-# {{ title }}
+# {{ page.title }}
